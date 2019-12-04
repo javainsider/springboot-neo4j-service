@@ -1,0 +1,1 @@
+package com.javainsider.springbootneo4j.model;
